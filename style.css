@@ -1,0 +1,49 @@
+header {
+    position: relative;
+    height: 60px;
+    background-color: #141414;
+}
+
+.logo {
+    position: absolute;
+    height: 136px;
+    width: 326px;
+    background-color: #99832d;
+}
+
+.hero {
+    position: relative;
+    height: 659px;
+    background-color: #141414;
+}
+
+.hero img {
+    display: block;
+    width: 978px;
+    height: 659px;
+}
+
+.social-medias {
+    position: absolute;
+    bottom: 0;
+    width: 815px;
+    height: 68px;
+    background-color: #ebebeb;
+}
+
+.hero-figure {
+    width: 489px;
+    height: 329px;
+    background-color: #99832d;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.hero-content {
+    width: 584px;
+    height: 455px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
